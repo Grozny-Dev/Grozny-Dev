@@ -2,7 +2,7 @@
 
 ### Languages and Tools:
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
-![C#](https://img.shields.io/badge/C-sharp-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
+![C#](https://img.shields.io/badge/C#-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
 
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/the_cybermania)
