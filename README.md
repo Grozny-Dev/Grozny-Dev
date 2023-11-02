@@ -2,6 +2,7 @@
 
 ### Languages and Tools:
 ![C#](https://img.shields.io/badge/CSharp-090909?style=for-the-badge&logo=CSharp&logoColor=E5D3FF)
+![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=E5D3FF)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
 
 ### Socials:
