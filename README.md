@@ -1,4 +1,4 @@
-![Header](https://github.com/Grozny-Dev/Grozny-Dev/blob/main/assets/header.jpg)]
+![Header](https://github.com/Grozny-Dev/Grozny-Dev/blob/main/assets/header.jpg)
 
 ### Languages and Tools:
 ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
