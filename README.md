@@ -1,7 +1,7 @@
 ![Header](https://github.com/Grozny-Dev/Grozny-Dev/blob/main/assets/header.jpg)
 
 ### Languages and Tools:
-![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
+![ASP.NET](https://img.shields.io/badge/-frameWork-090909?style=for-the-badge&logo=asp.net&logoColor=E5D3FF)
 ![C#](https://img.shields.io/badge/CSharp-090909?style=for-the-badge&logo=CSharp&logoColor=E5D3FF)
 
 ### Socials:
