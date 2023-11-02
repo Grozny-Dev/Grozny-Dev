@@ -1,5 +1,5 @@
 ![Header](https://github.com/Grozny-Dev/Grozny-Dev/blob/main/assets/header.jpg)
-<h1 aling="center"> ɪ'ᴍ ᴀ ʙᴇɢɪɴɴᴇʀ ʙᴀᴄᴋᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ </h1>
+<h1> ɪ'ᴍ ᴀ ʙᴇɢɪɴɴᴇʀ ʙᴀᴄᴋᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ </h1>
 
 ### ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ:
 ![C#](https://img.shields.io/badge/CSharp-090909?style=for-the-badge&logo=CSharp&logoColor=E5D3FF)
@@ -11,4 +11,8 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/grozny_dev)
 
 ### ꜱᴛᴀᴛꜱ:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grozny-Dev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grozny-Dev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)]<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Grozny-Dev&theme=dark&hide_border=false)<br/>
+
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Grozny-Dev&theme=dark&no-frame=false&no-bg=false&margin-w=4)
