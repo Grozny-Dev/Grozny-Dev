@@ -1,8 +1,8 @@
 ![Header](https://github.com/Grozny-Dev/Grozny-Dev/blob/main/assets/header.jpg)
 
 ### Languages and Tools:
-![ASP.NET](https://img.shields.io/badge/-frameWork-090909?style=for-the-badge&logo=asp.net&logoColor=E5D3FF)
 ![C#](https://img.shields.io/badge/CSharp-090909?style=for-the-badge&logo=CSharp&logoColor=E5D3FF)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
 
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/the_cybermania)
