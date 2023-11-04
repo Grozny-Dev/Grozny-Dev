@@ -2,7 +2,8 @@
 <h1> ɪ'ᴍ ᴀ ʙᴇɢɪɴɴᴇʀ ʙᴀᴄᴋᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ </h1>
 
 ### ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ:
-![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=java&logoColor=E5D3FF)
+![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=E5D3FF)
+![discord.py](https://img.shields.io/badge/discord.py-090909?style=for-the-badge&logo=discord&logoColor=E5D3FF)
 
 ### ꜱᴏᴄɪᴀʟꜱ:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://web.telegram.org/k/#-Groznyn)
