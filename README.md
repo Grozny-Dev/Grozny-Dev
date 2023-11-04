@@ -2,9 +2,7 @@
 <h1> ɪ'ᴍ ᴀ ʙᴇɢɪɴɴᴇʀ ʙᴀᴄᴋᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ </h1>
 
 ### ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ:
-![C#](https://img.shields.io/badge/CSharp-090909?style=for-the-badge&logo=CSharp&logoColor=E5D3FF)
-![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=E5D3FF)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
+![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=Java&logoColor=E5D3FF)
 
 ### ꜱᴏᴄɪᴀʟꜱ:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://web.telegram.org/k/#-Groznyn)
