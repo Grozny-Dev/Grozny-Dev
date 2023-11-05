@@ -1,5 +1,4 @@
 ![Header](https://github.com/Grozny-Dev/Grozny-Dev/blob/main/assets/header.jpg)
-<h1> ɪ'ᴍ ᴀ ʙᴇɢɪɴɴᴇʀ ʙᴀᴄᴋᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ </h1>
 
 ### ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ:
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=E5D3FF)
