@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=E5D3FF)
 ![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=Java&logoColor=E5D3FF)
 ![MinecraftPlugins](https://img.shields.io/badge/Plugins-090909?style=for-the-badge&logo=Minecraft&logoColor=E5D3FF)
-![discord.py](https://img.shields.io/badge/discord.py-090909?style=for-the-badge&logo=discord&logoColor=E5D3FF)
+![discord.py](https://img.shields.io/badge/discord.py-090909?style=for-the-badge&logo=discord&logoColor=7289da)
 ![python-telegram-bot](https://img.shields.io/badge/Python_Telegram_Bot-090909?style=for-the-badge&logo=telegram&logoColor=27A0D)
 
 ### ꜱᴏᴄɪᴀʟꜱ:
