@@ -2,7 +2,7 @@
 
 ### ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ:
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python)
-![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=https://w7.pngwing.com/pngs/405/878/png-transparent-java-logo-java-runtime-environment-computer-icons-java-platform-standard-edition-java-miscellaneous-text-logo.png)
+![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=(https://w7.pngwing.com/pngs/405/878/png-transparent-java-logo-java-runtime-environment-computer-icons-java-platform-standard-edition-java-miscellaneous-text-logo.png))
 ![discord.py](https://img.shields.io/badge/discord.py-090909?style=for-the-badge&logo=discord&logoColor=7289da)
 ![python-telegram-bot](https://img.shields.io/badge/Python_Telegram_Bot-090909?style=for-the-badge&logo=telegram&logoColor=27A0D)
 
