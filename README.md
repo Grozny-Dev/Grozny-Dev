@@ -1,6 +1,7 @@
 ![Header](https://github.com/Grozny-Dev/Grozny-Dev/blob/main/assets/header.jpg)
 
 ### ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ:
+![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python)
 ![Javascript](https://img.shields.io/badge/Javascript-090909?style=for-the-badge&logo=Javascript)
 ![discord.js](https://img.shields.io/badge/discord.js-090909?style=for-the-badge&logo=discord&logoColor=7289da)
 
