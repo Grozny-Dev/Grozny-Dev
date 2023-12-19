@@ -3,6 +3,7 @@
 ### ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ:
 ![html](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=HTML)
 ![CSS](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=ccs)
+![javascript](https://img.shields.io/badge/javascript-090909?style=for-the-badge&logo=javascript)
 
 ### ꜱᴏᴄɪᴀʟꜱ:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://web.telegram.org/k/#-Groznyn)
