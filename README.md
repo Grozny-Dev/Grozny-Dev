@@ -5,6 +5,8 @@
 ![CSS](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=ccs)
 ![javascript](https://img.shields.io/badge/javascript-090909?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=react)
+![typescript](https://img.shields.io/badge/typescript-090909?style=for-the-badge&logo=typescript)
+![node.js](https://img.shields.io/badge/node.js-090909?style=for-the-badge&logo=node)
 
 ### ꜱᴏᴄɪᴀʟꜱ:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://web.telegram.org/k/#-Groznyn)
