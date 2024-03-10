@@ -1,9 +1,8 @@
 ![Header](https://github.com/Grozny-Dev/Grozny-Dev/blob/main/assets/header.jpg)
 
 ### ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ:
-![javascript](https://img.shields.io/badge/javascript-090909?style=for-the-badge&logo=javascript)
-![html](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=HTML)
-![CSS](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=ccs)
+![json](https://img.shields.io/badge/json-090909?style=for-the-badge&logo=json)
+![java](https://img.shields.io/badge/java-090909?style=for-the-badge&logo=java)
 
 ### ꜱᴏᴄɪᴀʟꜱ:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://web.telegram.org/k/#-Groznyn)
