@@ -2,6 +2,7 @@
 
 ### ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ:
 ![json](https://img.shields.io/badge/json-090909?style=for-the-badge&logo=json)
+![python](https://img.shields.io/badge/python-090909?style=for-the-badge&logo=python)
 ![java](https://img.shields.io/badge/java-090909?style=for-the-badge&logo=java)
 
 ### ꜱᴏᴄɪᴀʟꜱ:
