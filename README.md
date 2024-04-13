@@ -1,7 +1,7 @@
 ![Header](https://github.com/Grozny-Dev/Grozny-Dev/blob/main/assets/header.jpg)
 
 ### ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ:
-![C#](https://img.shields.io/badge/C#-090909?style=for-the-badge&logo=Csharp)
+![C#](https://img.shields.io/badge/Csharp-090909?style=for-the-badge&logo=Csharp)
 ![Kotlin](https://img.shields.io/badge/Kotlin-090909?style=for-the-badge&logo=Kotlin)
 
 ### ꜱᴏᴄɪᴀʟꜱ:
