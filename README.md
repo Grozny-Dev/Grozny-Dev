@@ -1,7 +1,7 @@
 ![Header](https://github.com/Grozny-Dev/Grozny-Dev/blob/main/assets/header.jpg)
 
 ### ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ:
-![С++](https://img.shields.io/badge/С++-090909?style=for-the-badge&logo=С++)
+![С++](https://img.shields.io/badge/CPlusPlus-090909?style=for-the-badge&logo=CPlusPlus)
 
 ### ꜱᴏᴄɪᴀʟꜱ:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://web.telegram.org/k/#-Groznyn)
