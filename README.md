@@ -2,7 +2,7 @@
 
 ### ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ:
 ![С++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=CPlusPlus)
-![С#](https://img.shields.io/badge/C#-090909?style=for-the-badge&logo=C#)
+![С#](https://img.shields.io/badge/C#-090909?style=for-the-badge&logo=Csharp)
 ![Lua](https://img.shields.io/badge/Lua-090909?style=for-the-badge&logo=Lua)
 
 ### ꜱᴏᴄɪᴀʟꜱ:
